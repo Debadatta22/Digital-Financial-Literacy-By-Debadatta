@@ -42,6 +42,9 @@ Platform as a Service (PaaS): Supports application development with integrated D
 
 Software as a Service (SaaS): Provides access to IBM’s enterprise software over the cloud.
 
+<img width="2016" height="1512" alt="_- visual selection" src="https://github.com/user-attachments/assets/4ee048e1-1081-433a-b82e-d23027a4ba5f" />
+
+
 _Deployment Models:_
 
 Public Cloud
@@ -51,6 +54,9 @@ Private Cloud
 Hybrid Cloud
 
 Multicloud environments
+
+<img width="1728" height="1632" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/4e0be48a-dc4c-481b-8a7a-4f7d7ea2ecf3" />
+
 
 _AI and Data Services:_
 
