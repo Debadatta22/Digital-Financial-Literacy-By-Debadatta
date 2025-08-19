@@ -44,6 +44,8 @@ Software as a Service (SaaS): Provides access to IBM’s enterprise software ove
 
 <img width="2016" height="1512" alt="_- visual selection" src="https://github.com/user-attachments/assets/4ee048e1-1081-433a-b82e-d23027a4ba5f" />
 
+-------------------------------------------
+
 
 _Deployment Models:_
 
@@ -58,6 +60,8 @@ Multicloud environments
 <img width="1728" height="1632" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/4e0be48a-dc4c-481b-8a7a-4f7d7ea2ecf3" />
 
 
+-----------------------------------------------------
+
 _AI and Data Services:_
 
 watsonx.ai for building and deploying foundation models and machine learning workflows.
@@ -67,6 +71,9 @@ AutoAI for automated ML pipeline generation.
 IBM SPSS Modeler for visual predictive analytics.
 
 watsonx.data for querying and analyzing enterprise datasets.
+
+--------------------------------------------
+
 
 _Developer Tools and Interfaces:_
 
@@ -80,6 +87,8 @@ IBM Cloud Shell (web terminal)
 
 Notebooks for data science and ML workflows
 
+--------------------------------------
+
 _Container and Serverless Support:_
 
 Kubernetes Service for container orchestration.
@@ -87,6 +96,8 @@ Kubernetes Service for container orchestration.
 Red Hat OpenShift on IBM Cloud for enterprise-grade Kubernetes.
 
 Cloud Functions for serverless computing using Apache OpenWhisk.
+
+--------------------------------------------
 
 _Security and Compliance:_
 
@@ -98,6 +109,8 @@ Secure Gateway for hybrid connections
 
 Compliance certifications (HIPAA, GDPR, SOC, ISO, etc.)
 
+------------------------------------------------
+
 _Data and Storage Solutions:_
 
 IBM Cloud Databases (PostgreSQL, MongoDB, Redis, etc.)
@@ -105,6 +118,9 @@ IBM Cloud Databases (PostgreSQL, MongoDB, Redis, etc.)
 Object Storage for unstructured data
 
 Block and File Storage for persistent workloads
+
+----------------------------------
+
 
 _Monitoring and DevOps:_
 
@@ -114,11 +130,15 @@ IBM Cloud Monitoring with Sysdig
 
 Log analysis and debugging tools
 
+---------------------------
+
 _Global Availability:_
 
 Data centers across North America, Europe, Asia-Pacific, and more
 
 Supports global scalability and disaster recovery
+
+-------------------------
 
 _Marketplace and Ecosystem:_
 
@@ -127,6 +147,8 @@ IBM Cloud Catalog featuring hundreds of services and third-party integrations
 Access to open-source technologies and APIs
 
 GitHub integration for DevOps workflows
+
+-----------------------------
 
 _Pricing and Access:_
 
